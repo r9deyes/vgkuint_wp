@@ -1,0 +1,30 @@
+.info img {
+margin: 5px 0px 20px 0px;
+border: 1px solid #525252;
+}
+
+#bottom {
+margin-bottom: 40px;
+}
+
+#bottom2 {
+font-size: 20px;
+}
+
+#mail {
+margin-top: 20px;
+}
+
+#mail2 {
+padding-right: 30px;
+}
+
+.mail {
+margin: 20px;
+}
+
+
+
+.danger {
+width: 150px;
+}

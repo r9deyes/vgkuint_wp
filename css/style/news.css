@@ -1,0 +1,32 @@
+.news {
+overflow: hidden;
+width: 100%;
+}
+
+.border-news {
+border: 1px solid #CDCDCD;
+margin-bottom: 20px;
+background: #eee;
+padding: 3px 20px;
+}
+
+
+address {
+text-decoration: underline;    
+}
+
+
+
+.text-justify {
+text-indent: 20px;
+}  
+
+img {
+padding: 3px;
+}
+
+
+h4 {
+text-transform: uppercase;   
+font-size: 20px;
+}
